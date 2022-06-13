@@ -1,0 +1,11 @@
+# Entendendo por baixo dos panos:
+
+### Entendendo o que acontece com nossos arquivos e repositórios:
+
+Untracked = arquivos que o git não tem ciencia, não conhece.
+
+Unmodified - arquivo que ainda não foi modificado
+
+Modified = arquivo que sofreu alteração.Ele muda automaticamente de unmodified para modified.
+
+Staged = onde ficam os arquivos que estão se preparando para fazer parte de outro tipo de agrupamento.

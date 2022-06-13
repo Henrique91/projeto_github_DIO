@@ -1,0 +1,20 @@
+ - O que é Markdown:
+
+Markdown é um formato simples de marcação de texto que possui o objetivo de mostrar o que é importante. Seja um tópico, links ou imagens.
+
+ - Como usar Markdown:
+
+Existem duas formas de inserir link em Markdown, através de um link direto ou usando um texto-âncora: Texto-âncora: utilize os caracteres []() , adicionando entre chaves o texto que você quer que apareça, e entre os parênteses, o endereço de destino, no formato [exemplo](https://exemplo.com/).
+
+ - Sintaxe Markdown:
+
+Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de texto na web, utilizada em aplicativos como Slack e GitHub. Textos estilizados com Markdown são, na maioria dos casos, apenas texto com caracteres não-alfabéticos, como #, \* e ![](), usados para a configuração de títulos, listas, itálico, negrito e inserção de imagens.
+
+O Markdown funciona como um conversor de texto para HTML: os caracteres não-alfabéticos são traduzidos como <b>, <i> e <a href>, etc. Já os textos sem formatação entram como parágrafo simples <p>.
+
+
+Links úteis:
+
+ Sobre Markdown: <https://www.markdownguide.org/getting-started/>
+ Comandos Markdown: <https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open>
+

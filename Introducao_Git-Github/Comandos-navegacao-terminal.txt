@@ -1,0 +1,21 @@
+ #Comandos basicos para navegar no terminal:
+
+## Comandos:
+
+dir = lista pastas
+cd = para navegar entre as pastas
+cd (nome da pasta) = para entrar na pasta
+cd .. = para retornar à pasta anterior/ retroceder 1 nível de navegação
+cls = para limpar a tela (ctrl + l)
+TAB = função de auto completar
+mkdir = criar pasta/diretório -> ex.: mkdir (nome da pasta)
+echo = criar arquivo
+del = deletar arquivo dentro do repositório
+rmdir = deleta repositório e todo conteúdo dentro dele -> ex.: rmdir (pasta) /S /Q    
+/S:exclui uma arvore do diretório (o editório especificado e todos seus subdiretórios) 
+/Q:não solicita confirmação ao excluir
+ls = lista para mostrar onde estamos dentro da pasta
+pwd = mostra caminho completo de onde estamos
+
+
+

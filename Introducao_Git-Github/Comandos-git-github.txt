@@ -1,0 +1,23 @@
+# Comandos básicos interação Git/Github
+
+### Comandos:
+
+
+Criar autor (nome e email)
+git config --global user.name = cria nome   ex.: git config --global user.name "HenriqueShow"
+git config --global user.email = cria email ex.: git config --global user.email "henriquecorrea91@gmail.com"
+
+git init = inicialisar repositório
+ls = mostra arquivos ocultos
+git add * = adiciona arquivos novos ou alterados em sua area de trabalho
+git add . = para adicionar arquivos novos e modificados mas não os deletados
+git commit -m "" = comitar as alterações para o repositório
+git satatus = mostra os estados dos arquivos
+mv + nome do arquivo = move arquivo ou pasta para dentro de outra pasta 
+ex.: mv strogonoff.md ./ receitas/  == Foi colocado o arquivo receitas dentro da pasta strogonoff.md  
+git config --list = verifica configurações no github
+git remote add + link = empurrar versão do repositório local para repositório remoto
+git push origin master = efetua push (empurra)
+git pull origin master = (puxar) puxa do repositório remoto para nossa máquina, repositório local
+git clone + link = clonar/copiar código do github pegando link do código
+
